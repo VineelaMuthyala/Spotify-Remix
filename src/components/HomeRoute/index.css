@@ -97,6 +97,7 @@ ul {
     flex-direction: column;
     width: 360px;
     padding-top: 0px;
+    overflow: hidden;
   }
   .lists-container {
     width: 360px;
