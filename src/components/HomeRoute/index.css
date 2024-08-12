@@ -80,7 +80,7 @@ ul {
   .home-page-container {
     display: flex;
     flex-direction: column;
-    width: 360px;
+    width: 100vw;
     height: 100vh;
   }
   .home-playlist-heading {
@@ -97,7 +97,8 @@ ul {
     flex-direction: column;
     width: 360px;
     padding-top: 0px;
-    overflow: hidden;
+        overflow-x: hidden;
+    overflow-y: auto;
   }
   .lists-container {
     width: 360px;

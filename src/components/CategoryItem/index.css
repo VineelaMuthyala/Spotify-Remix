@@ -74,7 +74,7 @@
   .category-item-container {
     display: flex;
     flex-direction: column;
-    width: 360px;
+    width: 100vw;
     height: 100vh;
     overflow: hidden;
     background: #181818;

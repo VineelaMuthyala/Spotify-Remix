@@ -23,7 +23,7 @@
 }
 @media (max-width: 560px) {
   .new-item-failure-page {
-    width: 360px;
+        width: 100vw;
   }
   .new-item-failure-container {
     width: 290px;

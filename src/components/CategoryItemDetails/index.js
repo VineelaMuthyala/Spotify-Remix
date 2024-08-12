@@ -11,7 +11,7 @@ class CategoryItemDetails extends Component {
       <div className="category-item-details">
         <img src={url} alt="category" className="category-item-image" />
         <div className="category-item-image-text-container">
-          <p>{name}</p>
+          <p className="category-item-text">{name}</p>
         </div>
       </div>
     )

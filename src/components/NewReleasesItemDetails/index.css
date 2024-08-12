@@ -109,7 +109,7 @@
   .new-item-page {
     display: flex;
     flex-direction: row;
-    width: 360px;
+    width: 100vw;
     height: 100vh;
     background: #181818;
     color: white;
@@ -118,12 +118,12 @@
   .new-item-container {
     display: flex;
     flex-direction: column;
-    width: 360px;
+    width: 100vw;
     height: 100vh;
     background: #181818;
   }
   .newreleases-item-container {
-    width: 360px;
+    width: 100vw;
     height: 100vh;
     flex-direction: column;
     justify-content: center;

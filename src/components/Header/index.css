@@ -41,6 +41,6 @@
 @media (max-width: 560px) {
   .header-container {
     height: 50px;
-    width: 360px;
+    width: 100vw;
   }
 }

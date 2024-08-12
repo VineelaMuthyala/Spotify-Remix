@@ -61,7 +61,7 @@
     height: 50px;
     display: flex;
     flex-direction: row;
-    width: 360px;
+    width: 100vw;
   }
   .logout-icon-container {
     width: 70px;

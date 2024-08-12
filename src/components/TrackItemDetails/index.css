@@ -86,7 +86,7 @@
 }
 @media (max-width: 560px) {
   .track-item-details-container {
-    width: 360px;
+    width: 100vw;
     height: 60px;
     display: flex;
     flex-direction: row;

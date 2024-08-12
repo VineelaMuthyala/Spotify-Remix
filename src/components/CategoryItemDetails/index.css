@@ -11,8 +11,13 @@
 .category-item-image-text-container {
   display: flex;
   flex-direction: column;
-
+  flex-wrap: wrap;
   align-items: center;
+  width: 160px;
+    height: 60px;
+}
+.category-item-text{
+font-size: 15px;
 }
 @media (max-width: 560px) {
   .category-item-details {

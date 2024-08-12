@@ -93,7 +93,7 @@
 @media (max-width: 560px) {
   .body-container {
     height: 80vh;
-    width: 360px;
+    width: 100vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -110,7 +110,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 360px;
+    width: 100vw;
     padding: 0px;
   }
   .track-cover-text-title {

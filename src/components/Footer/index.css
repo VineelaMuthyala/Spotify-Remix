@@ -174,7 +174,7 @@
 }
 @media (max-width: 560px) {
   .footer-page {
-    width: 360px;
+    width: 100vw;
     height: 100px;
   }
   .footer-item-container {
